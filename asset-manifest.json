@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Celebal-Project-1-UserForm/static/css/main.e0ab3a21.css",
+    "main.js": "/Celebal-Project-1-UserForm/static/js/main.9dc2cb08.js",
+    "index.html": "/Celebal-Project-1-UserForm/index.html",
+    "main.e0ab3a21.css.map": "/Celebal-Project-1-UserForm/static/css/main.e0ab3a21.css.map",
+    "main.9dc2cb08.js.map": "/Celebal-Project-1-UserForm/static/js/main.9dc2cb08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0ab3a21.css",
+    "static/js/main.9dc2cb08.js"
+  ]
+}
